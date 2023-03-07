@@ -1,0 +1,12 @@
+ .sign-in-page {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.message-list {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+ 
+ 
